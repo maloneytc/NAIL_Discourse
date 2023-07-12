@@ -1,2 +1,2 @@
 # NAIL_Discourse
-Manuscript for the NAIL discourse analysis
+Code analyzing multi-echo data as used in the manuscript "Functional MRI Activation during Unscripted Discourse in People with Post-Stroke Aphasia"
